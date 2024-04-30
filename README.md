@@ -8,8 +8,7 @@
 <br>
 - Desarrollador Java Junior
 - Estudiante de Ingeniería de Software
-
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -17,11 +16,9 @@
 <br>
 
 <p align="center">
-
 - **Languages**:
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-
 <br>   
     
 - **Front-End Development**:
@@ -45,15 +42,7 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <br>
-
-
 </p>
-
-<br>
-<br>
-
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
