@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **WaDiaz24/WaDiaz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <!DOCTYPE html>
