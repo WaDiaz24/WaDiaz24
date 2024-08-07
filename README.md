@@ -20,7 +20,7 @@
 
 - **Languages**:
   
-    <img src="https://blog.codmind.com/content/images/2021/01/banner-12.jpg" height="20px">
+    <img src="https://blog.codmind.com/content/images/2021/01/banner-12.jpg" height="30px">
 
 - **Front-End Development**:
 
