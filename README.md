@@ -20,7 +20,7 @@
 
 - **Languages**:
   
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+    ![Python](https://blog.codmind.com/content/images/2021/01/banner-12.jpg)  
 
 - **Front-End Development**:
 
