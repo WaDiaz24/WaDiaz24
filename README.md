@@ -20,7 +20,7 @@
 
 - **Languages**:
   
-    ![Python](https://blog.codmind.com/content/images/2021/01/banner-12.jpg)  
+    <img src="https://blog.codmind.com/content/images/2021/01/banner-12.jpg" height="2px">
 
 - **Front-End Development**:
 
