@@ -21,9 +21,9 @@
 - **Languages**:
   
     <img src="https://lenguajesdeprogramacion.net/wp-content/uploads/2018/08/java-lenguaje-de-programacion-logo.png" height="30px">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1024px-Groovy-logo.svg.png" height="30px">
-    <img src="https://centroredes.org.ar/wp-content/uploads/2020/02/python-Centro-REDES.jpg" height="30px">
     <img src="https://lenguajesdeprogramacion.net/wp-content/uploads/2020/08/lenguaje-de-programacion-groovy.png" height="30px">
+    <img src="https://centroredes.org.ar/wp-content/uploads/2020/02/python-Centro-REDES.jpg" height="30px">
+    
 
 - **Front-End Development**:
 
@@ -40,7 +40,7 @@
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    <img src="https://blogs.powercode.id/wp-content/uploads/2023/02/intellij-IDEA.png" height="30px">
+    <img src="https://i.ytimg.com/vi/DzWcqZIlXFc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLASKd20NwQ-DHDfdB0brxs0avI4Ug" height="30px">
   
 </p>
 
