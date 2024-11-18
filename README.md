@@ -22,7 +22,7 @@
   
     <img src="https://lenguajesdeprogramacion.net/wp-content/uploads/2018/08/java-lenguaje-de-programacion-logo.png" height="30px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Groovy-logo.svg/1024px-Groovy-logo.svg.png" height="30px">
-    <img src="[https://extendsclass.com/blog/wp-content/uploads/2023/09/Python-Logo-500x283-1.png](https://codinglab.jp/wp-content/uploads/2018/08/Partner-Logo-Python-450-x-150-1.webp)" height="30px">
+    <img src="https://centroredes.org.ar/wp-content/uploads/2020/02/python-Centro-REDES.jpg" height="30px">
 
 - **Front-End Development**:
 
