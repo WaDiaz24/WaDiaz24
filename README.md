@@ -7,7 +7,7 @@
 
 <br>
 <ul>
-	<li>Desarrollador Java Junior</li>
+	<li>Desarrollador de Software Junior</li>
 	<li>Estudiante de Ingeniería de Software</li>
 </ul>
  
